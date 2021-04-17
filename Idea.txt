@@ -1,0 +1,160 @@
+//  Title : A summer hike
+    Idea: To have a person have chices for every day scenarion on a summer long Hike and or trip
+
+ 
+
+ basicSupplies ( food, water, emergency kit, clothing, sunblock, hygene)
+ other supplies ( tent, bug spray, bear spray, utensils)
+
+the hike:
+
+Distance - 3,000 km 
+days: 90 (33.33/day)
+
+
+max poss: 50km - 90%energy
+min : 0km
+
+
+stops:
+
+berrie
+midland
+coldwater
+orillia                                 5 days walk/ 2 days rest
+
+washago
+gravenhurst
+bracebridge
+huntsville                              5 days walk/ 2 days rest
+
+sprucedale
+parry sound
+magnetawan  
+commanda                                5  days walk/ 2 days rest  
+
+nipissing
+North bay
+sudbury
+espanola                                5 days walk/ 2 days rest
+
+spanish
+blind river
+bruce mines
+echo bay                                5 days walk/ 2 days rest
+
+sault ste. marie
+lake superior provinvial park
+wawa                                    5 days walk/ 2 days rest
+
+white river
+thunder bay
+kenora
+
+types of choices: amount of daily walk
+                  when to re-supply 
+                  daily routine
+                  rest stops
+                  types of transport
+
+Story:
+
+console.log("Hello Adventurer! You have decided, or not, to take a hike this summer, the whole summer!")
+
+option - yay or what
+
+console.log("The goal is to tackle as many stops as possible in 90 days accross Ontario, without any motorized help or transportation, let's see how far you go!")
+console.log("if you meet the right people at some locations along the way, they'll give you a letter to remember. find out the secret word for a special prize at the end of your hike! Good luck!")
+
+WEEK ONE
+
+console.log("In this week, You are at your starting point in Berrie, ON. And you will be hiking to and through
+midland, coldwater and orillia")
+
+option - you can only explore one of this towns, choose wisely!
+
+WEEK TWO
+
+this week, after a nice hotel refreshment, you are starting in Orillia, ON. and you will be hiking to and through 
+
+gravenhurst
+bracebridge
+huntsville
+
+option - explore one of this towns
+option - Visit Zipline park at Brace bridge (can't explore other)
+
+
+WEEK THREE
+
+this week, you will be start your hike in Huntsville, ON. And you will be hiking to and through
+sprucedale - Perry sound
+magnetawan  
+commanda
+
+option - explore one
+option - 
+
+WEEK FOUR
+
+this week, you will be start your hike in Commanda, ON. And you will be hiking to and through
+nipissing
+North bay
+sudbury
+espanola
+
+option - explore one
+
+WEEK FIVE
+
+this week, you will be start your hike in espanola, ON. And you will be hiking to and through
+spanish
+blind river
+bruce mines
+echo bay
+
+option - explore one
+
+WEEK SIX
+
+this week, you will be start your hike in Echo Bay, ON. And you will be hiking to and through
+sault ste. marie
+lake superior provinvial park
+wawa
+
+option - explore one
+
+WEEK SEVEN
+
+this week, you will be start your hike in wawa, ON. And you will be hiking to and through
+white river
+marathon
+terrace bay
+
+option - explore one
+
+WEEK EIGHT
+
+this week, you will be start your hike in Terrace Bay, ON. And you will be hiking to and through
+
+Rossport
+Nipigon 
+Thunder Bay 
+
+option - explore one or none
+option - sleeping giant provincial park
+
+WEEK NINE
+
+this week, you will be start your hike in Thunder Bay, ON. And you will be hiking to and through
+
+Martin
+Ignace
+Dryden
+
+option - explore one
+
+WEEK TEN
+
+this week, you will be start your hike in Dryden, ON. And you will be hiking to and through
+Kenora
